@@ -106,7 +106,7 @@ projectfinal/
 Clone the repository:
 
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/cosmos-26/deepfake-image-detection>
 ```
 
 Move into the project directory:
